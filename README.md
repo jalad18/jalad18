@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Jalad Shrimali
 - 👀 I’m interested in learning about data science and blockchain.
 - 🌱 I’m currently learning NodeJS for backend development.
-- 📫 How to reach me: jaladshrimali07@gmail.com
+- 📫 How to reach me: shrimalijalad2k01@gmail.com
+- Alternate email id: jaladshrimali07@gmail.com
 - I am also looking forward to learn DSA so that it improves my problem solving skills.
 
 <!---
